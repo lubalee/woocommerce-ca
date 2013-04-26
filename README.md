@@ -1,4 +1,6 @@
 woocommerce-ca
 ==============
 
-Woocommerce translation to Catalan
+WooCommerce translation to Catalan
+
+Traducció de WooCommerce al català
