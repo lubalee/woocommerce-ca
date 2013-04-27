@@ -5,10 +5,7 @@ WooCommerce translation to Catalan
 
 Traducció de WooCommerce al català
 
-<<<<<<< HEAD
-=======
 
->>>>>>> Autor inicial
-      Traducció inicial: luba lee // hola@lubalee.net // http://lubalee.net
+		Primera versió: luba lee // hola@lubalee.net // http://lubalee.net
       
-      Sisplau, contribuïu-hi!
+      	Sisplau, contribuïu-hi!
