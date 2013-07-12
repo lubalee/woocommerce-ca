@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.0\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2013-04-02 08:22:54+00:00\n"
-"PO-Revision-Date: 2013-07-11 18:10+0100\n"
+"PO-Revision-Date: 2013-07-12 18:17+0100\n"
 "Last-Translator: Roger Pàmies <roger.pamies@gmail.com>\n"
 "Language-Team: luba lee <hello@lubalee.net>\n"
 "MIME-Version: 1.0\n"
@@ -519,7 +519,7 @@ msgstr "Comanda &ndash; %s"
 #, php-format
 msgctxt "Order date parsed by strftime"
 msgid "%b %d, %Y @ %I:%M %p"
-msgstr ""
+msgstr "%b %d, %Y @ %I:%M %p"
 
 # @ woocommerce
 #: classes/class-wc-checkout.php:276
@@ -547,7 +547,7 @@ msgstr "(%s) no és un codi postal vàlid."
 # @ woocommerce
 #: classes/class-wc-checkout.php:472
 msgid "is not valid. Please enter one of the following:"
-msgstr ""
+msgstr "no és vàlid. Introduïu un dels següents:"
 
 # @ woocommerce
 #: classes/class-wc-checkout.php:480
@@ -630,7 +630,7 @@ msgstr "No ha estat possible registrar-vos&hellip; sisplau, contacteu-nos si seg
 # @ woocommerce
 #: classes/class-wc-countries.php:37
 msgid "Afghanistan"
-msgstr ""
+msgstr "Afganistan"
 
 # @ woocommerce
 #: classes/class-wc-countries.php:38
@@ -7303,9 +7303,8 @@ msgstr "Nom de la nova classe d'enviament"
 
 # @ woocommerce
 #: woocommerce.php:914
-#, fuzzy
 msgid "All"
-msgstr "Tots"
+msgstr "Tot"
 
 # @ woocommerce
 #: woocommerce.php:915
@@ -8047,28 +8046,28 @@ msgstr ""
 #: admin/includes/welcome.php:356
 #, php-format
 msgid "View %s"
-msgstr ""
+msgstr "Veure %s"
 
 # @ woocommerce
 #: admin/post-types/product.php:31
 msgid "Make a duplicate from this product"
-msgstr ""
+msgstr "Fer un duplicat a partir d'aquest producte"
 
 # @ woocommerce
 #: admin/post-types/product.php:32
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplicar"
 
 # @ woocommerce
 #: admin/post-types/product.php:61
 msgid "Copy to a new draft"
-msgstr ""
+msgstr "Còpia a un nou esborrany"
 
 # @ woocommerce
 #: admin/post-types/product.php:86
 #: admin/woocommerce-admin-taxonomies.php:297
 msgid "Image"
-msgstr ""
+msgstr "Imatge"
 
 # @ woocommerce
 #: admin/post-types/product.php:91
@@ -8078,7 +8077,7 @@ msgstr ""
 #: admin/woocommerce-admin-reports.php:2083
 #: admin/woocommerce-admin-reports.php:2119
 msgid "SKU"
-msgstr ""
+msgstr "SKU"
 
 # @ woocommerce
 #: admin/post-types/product.php:94
@@ -8086,17 +8085,17 @@ msgstr ""
 #: admin/woocommerce-admin-content.php:63
 #: admin/woocommerce-admin-reports.php:99
 msgid "Stock"
-msgstr ""
+msgstr "Estoc"
 
 # @ woocommerce
 #: admin/post-types/product.php:98
 msgid "Categories"
-msgstr ""
+msgstr "Categories"
 
 # @ woocommerce
 #: admin/post-types/product.php:99
 msgid "Tags"
-msgstr ""
+msgstr "Etiquetes"
 
 # @ woocommerce
 #: admin/post-types/product.php:100
@@ -8105,7 +8104,7 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:1040
 #: admin/woocommerce-admin-init.php:463
 msgid "Featured"
-msgstr ""
+msgstr "Destacat"
 
 # @ woocommerce
 #: admin/post-types/product.php:101
@@ -8113,7 +8112,7 @@ msgstr ""
 #: admin/woocommerce-admin-attributes.php:308
 #: admin/woocommerce-admin-attributes.php:385
 msgid "Type"
-msgstr ""
+msgstr "Tipus"
 
 # @ woocommerce
 #: admin/post-types/product.php:102
@@ -8125,47 +8124,47 @@ msgstr "Data"
 # @ default
 #: admin/post-types/product.php:151
 msgid "Edit this item"
-msgstr ""
+msgstr "Edita aquest article"
 
 # @ default
 #: admin/post-types/product.php:152
 msgid "Edit this item inline"
-msgstr ""
+msgstr "Edita aquest article en línia"
 
 # @ default
 #: admin/post-types/product.php:152
 msgid "Quick&nbsp;Edit"
-msgstr ""
+msgstr "Edició&nbsp;ràpida"
 
 # @ default
 #: admin/post-types/product.php:156
 #: admin/post-types/shop_coupon.php:65
 msgid "Restore this item from the Trash"
-msgstr ""
+msgstr "Restaurar aquest item de la paperera"
 
 # @ default
 #: admin/post-types/product.php:156
 #: admin/post-types/shop_coupon.php:65
 msgid "Restore"
-msgstr ""
+msgstr "Restaura"
 
 # @ default
 #: admin/post-types/product.php:158
 #: admin/post-types/shop_coupon.php:67
 msgid "Move this item to the Trash"
-msgstr ""
+msgstr "Mou aquest item a la paperera"
 
 # @ default
 #: admin/post-types/product.php:158
 #: admin/post-types/shop_coupon.php:67
 msgid "Trash"
-msgstr ""
+msgstr "Paperera"
 
 # @ default
 #: admin/post-types/product.php:160
 #: admin/post-types/shop_coupon.php:69
 msgid "Delete this item permanently"
-msgstr ""
+msgstr "Elimina aquest item de permanentment"
 
 # @ default
 # @ woocommerce
@@ -8173,34 +8172,34 @@ msgstr ""
 #: admin/post-types/shop_coupon.php:69
 #: admin/post-types/writepanels/writepanel-order_data.php:463
 msgid "Delete Permanently"
-msgstr ""
+msgstr "Elimina permanentment"
 
 # @ default
 #: admin/post-types/product.php:165
 #, php-format
 msgid "Preview &#8220;%s&#8221;"
-msgstr ""
+msgstr "Previsualització &#8220;%s&#8221;"
 
 # @ default
 #: admin/post-types/product.php:165
 msgid "Preview"
-msgstr ""
+msgstr "Previsualització"
 
 # @ default
 #: admin/post-types/product.php:167
 #, php-format
 msgid "View &#8220;%s&#8221;"
-msgstr ""
+msgstr "Veure &#8220;%s&#8221;"
 
 # @ woocommerce
 #: admin/post-types/product.php:214
 msgid "Grouped"
-msgstr ""
+msgstr "Agrupat"
 
 # @ woocommerce
 #: admin/post-types/product.php:216
 msgid "External/Affiliate"
-msgstr ""
+msgstr "Extern/Filial"
 
 # @ woocommerce
 #: admin/post-types/product.php:220
@@ -8208,7 +8207,7 @@ msgstr ""
 #: admin/post-types/writepanels/variation-admin-html.php:168
 #: admin/post-types/writepanels/writepanel-product_data.php:52
 msgid "Virtual"
-msgstr ""
+msgstr "Virtual"
 
 # @ woocommerce
 #: admin/post-types/product.php:222
@@ -8216,18 +8215,18 @@ msgstr ""
 #: admin/post-types/writepanels/variation-admin-html.php:166
 #: admin/post-types/writepanels/writepanel-product_data.php:58
 msgid "Downloadable"
-msgstr ""
+msgstr "Descarregable"
 
 # @ woocommerce
 #: admin/post-types/product.php:224
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # @ woocommerce
 #: admin/post-types/product.php:228
 #: admin/post-types/product.php:387
 msgid "Variable"
-msgstr ""
+msgstr "Variable"
 
 # @ woocommerce
 #: admin/post-types/product.php:251
@@ -8237,40 +8236,40 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/product.php:253
 msgid "yes"
-msgstr ""
+msgstr "sí"
 
 # @ woocommerce
 #: admin/post-types/product.php:255
 msgid "no"
-msgstr ""
+msgstr "no"
 
 # @ woocommerce
 #: admin/post-types/product.php:373
 msgid "Show all product types"
-msgstr ""
+msgstr "Mostra tots els tipus de productes"
 
 # @ woocommerce
 #: admin/post-types/product.php:381
 #: admin/post-types/writepanels/writepanel-product_data.php:39
 msgid "Grouped product"
-msgstr ""
+msgstr "Producte agrupat"
 
 # @ woocommerce
 #: admin/post-types/product.php:383
 #: admin/post-types/writepanels/writepanel-product_data.php:40
 msgid "External/Affiliate product"
-msgstr ""
+msgstr "Producte extern/Filial"
 
 # @ woocommerce
 #: admin/post-types/product.php:385
 #: admin/post-types/writepanels/writepanel-product_data.php:38
 msgid "Simple product"
-msgstr ""
+msgstr "Producte simple"
 
 # @ woocommerce
 #: admin/post-types/product.php:399
 msgid "Show all sub-types"
-msgstr ""
+msgstr "Mostra tots els subtipus"
 
 # @ woocommerce
 #: admin/post-types/product.php:520
@@ -8290,29 +8289,29 @@ msgstr ""
 #: admin/post-types/writepanels/writepanels-init.php:46
 #: admin/settings/settings-init.php:518
 msgid "Product Data"
-msgstr ""
+msgstr "Dades del producte"
 
 # @ woocommerce
 #: admin/post-types/product.php:570
 msgid "Regular price"
-msgstr ""
+msgstr "Preu regular"
 
 # @ woocommerce
 #: admin/post-types/product.php:575
 #: admin/post-types/product.php:811
 msgid "Sale"
-msgstr ""
+msgstr "Liquidació"
 
 # @ woocommerce
 #: admin/post-types/product.php:577
 msgid "Sale price"
-msgstr ""
+msgstr "Preu de liquidació"
 
 # @ woocommerce
 #: admin/post-types/product.php:599
 #: admin/post-types/product.php:861
 msgid "L/W/H"
-msgstr ""
+msgstr "L/A/P"
 
 # @ woocommerce
 #: admin/post-types/product.php:601
@@ -8320,7 +8319,7 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:85
 #: admin/post-types/writepanels/writepanel-product_data.php:286
 msgid "Length"
-msgstr ""
+msgstr "Llargada"
 
 # @ woocommerce
 #: admin/post-types/product.php:602
@@ -8329,7 +8328,7 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:287
 #: admin/woocommerce-admin-settings.php:795
 msgid "Width"
-msgstr ""
+msgstr "Amplada"
 
 # @ woocommerce
 #: admin/post-types/product.php:603
@@ -8338,13 +8337,13 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:288
 #: admin/woocommerce-admin-settings.php:797
 msgid "Height"
-msgstr ""
+msgstr "Pes"
 
 # @ woocommerce
 #: admin/post-types/product.php:613
 #: admin/post-types/product.php:885
 msgid "Visibility"
-msgstr ""
+msgstr "Visibilitat"
 
 # @ woocommerce
 #: admin/post-types/product.php:618
@@ -8359,27 +8358,27 @@ msgstr ""
 #: admin/woocommerce-admin-content.php:46
 #: admin/woocommerce-admin-settings.php:181
 msgid "Catalog"
-msgstr ""
+msgstr "Catàleg"
 
 # @ woocommerce
 #: admin/post-types/product.php:621
 #: admin/post-types/product.php:894
 #: admin/post-types/writepanels/writepanel-product_data.php:1031
 msgid "Hidden"
-msgstr ""
+msgstr "Ocult"
 
 # @ woocommerce
 #: admin/post-types/product.php:636
 #: admin/post-types/product.php:922
 msgid "In stock?"
-msgstr ""
+msgstr "En estoc?"
 
 # @ woocommerce
 #: admin/post-types/product.php:657
 #: admin/post-types/product.php:940
 #: admin/post-types/writepanels/writepanel-product_data.php:212
 msgid "Manage stock?"
-msgstr ""
+msgstr "Gestionar estoc?"
 
 # @ woocommerce
 #: admin/post-types/product.php:661
@@ -8387,7 +8386,7 @@ msgstr ""
 #: admin/post-types/product.php:975
 #: admin/post-types/writepanels/writepanel-product_data.php:219
 msgid "Stock Qty"
-msgstr ""
+msgstr "Quantitat de l'estoc"
 
 # @ woocommerce
 #: admin/post-types/product.php:792
@@ -8400,7 +8399,7 @@ msgstr ""
 #: admin/post-types/product.php:945
 #: admin/post-types/product.php:964
 msgid "— No Change —"
-msgstr ""
+msgstr "— Cap canvi —"
 
 # @ woocommerce
 #: admin/post-types/product.php:793
@@ -8409,7 +8408,7 @@ msgstr ""
 #: admin/post-types/product.php:867
 #: admin/post-types/product.php:965
 msgid "Change to:"
-msgstr ""
+msgstr "Canvia a:"
 
 # @ woocommerce
 #: admin/post-types/product.php:794
@@ -8427,7 +8426,7 @@ msgstr ""
 #: admin/post-types/product.php:805
 #: admin/post-types/product.php:830
 msgid "Enter price"
-msgstr ""
+msgstr "Introduïr preu"
 
 # @ woocommerce
 #: admin/post-types/product.php:820
@@ -8441,7 +8440,7 @@ msgstr ""
 #: admin/woocommerce-admin-status.php:122
 #: admin/woocommerce-admin-status.php:260
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 # @ woocommerce
 #: admin/post-types/product.php:911
@@ -8450,17 +8449,17 @@ msgstr ""
 #: admin/woocommerce-admin-status.php:122
 #: admin/woocommerce-admin-status.php:260
 msgid "No"
-msgstr ""
+msgstr "No"
 
 # @ woocommerce
 #: admin/post-types/product.php:1175
 msgid "Sort Products"
-msgstr ""
+msgstr "Ordenar productes"
 
 # @ woocommerce
 #: admin/post-types/product.php:1214
 msgid "Insert into product"
-msgstr ""
+msgstr "Afegir dins el producte"
 
 # @ woocommerce
 #: admin/post-types/product.php:1215
@@ -8470,28 +8469,28 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:25
 msgid "Code"
-msgstr ""
+msgstr "Codi"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:26
 msgid "Coupon type"
-msgstr ""
+msgstr "Tipus de cupó"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:27
 #: admin/post-types/writepanels/writepanel-coupon_data.php:45
 msgid "Coupon amount"
-msgstr ""
+msgstr "Suma del cupó"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:29
 msgid "Product IDs"
-msgstr ""
+msgstr "ID dels productes"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:30
 msgid "Usage / Limit"
-msgstr ""
+msgstr "Ús / Límit"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:31
@@ -8502,96 +8501,96 @@ msgstr "Data de caducitat"
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:56
 msgid "Edit coupon"
-msgstr ""
+msgstr "Editar cupó"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:114
 #, php-format
 msgid "%s / %s"
-msgstr ""
+msgstr "%s / %s"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:116
 #, php-format
 msgid "%s / &infin;"
-msgstr ""
+msgstr "%s / &infin;"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:149
 #: admin/post-types/shop_order.php:282
 msgid "Show all statuses"
-msgstr ""
+msgstr "Mostrar tots els estatus"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:45
 msgid "Billing"
-msgstr ""
+msgstr "Facturació"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:49
 msgid "Customer Notes"
-msgstr ""
+msgstr "Notes del client"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:51
 #: admin/post-types/writepanels/writepanel-order_data.php:386
 #: admin/post-types/writepanels/writepanel-order_data.php:433
 msgid "Actions"
-msgstr ""
+msgstr "Accions"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:98
 msgid "made by"
-msgstr ""
+msgstr "fet per"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:114
 #: admin/post-types/shop_order.php:123
 msgid "Via"
-msgstr ""
+msgstr "Via"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:131
 msgid "Unpublished"
-msgstr ""
+msgstr "No publicat"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:133
 msgid "Y/m/d g:i:s A"
-msgstr ""
+msgstr "Y/m/d g:i:s A"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:139
 #, php-format
 msgid "%s ago"
-msgstr ""
+msgstr "fa %s"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:141
 msgid "Y/m/d"
-msgstr ""
+msgstr "Y/m/d"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:158
 #: admin/woocommerce-admin-dashboard.php:176
 msgid "Processing"
-msgstr ""
+msgstr "Processant"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:165
 msgid "Complete"
-msgstr ""
+msgstr "Completa"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:301
 #: admin/post-types/shop_order.php:326
 msgid "Show all customers"
-msgstr ""
+msgstr "Mostrar tots els clients"
 
 # @ woocommerce
 #: admin/post-types/writepanels/order-download-permission-html.php:6
 msgid "Revoke Access"
-msgstr ""
+msgstr "Revocar accés"
 
 # @ woocommerce
 #: admin/post-types/writepanels/order-download-permission-html.php:7
@@ -8606,7 +8605,7 @@ msgstr ""
 #: admin/post-types/writepanels/order-download-permission-html.php:9
 #, php-format
 msgid "File %d: %s"
-msgstr ""
+msgstr "Arxiu %d: %s"
 
 # @ woocommerce
 #: admin/post-types/writepanels/order-download-permission-html.php:9
@@ -12143,9 +12142,8 @@ msgstr "pagar"
 
 # @ woocommerce
 #: admin/woocommerce-admin-install.php:219
-#, fuzzy
 msgid "Checkout &rarr; Pay"
-msgstr "Finalitzar comanda &rarr; Pagar"
+msgstr "Finalitzar compra &rarr; Pagar"
 
 # @ woocommerce
 #: admin/woocommerce-admin-install.php:222
@@ -13707,7 +13705,7 @@ msgstr "Opinions (%d)"
 #. translators: plugin header field 'PluginURI'
 #: woocommerce.php:0
 msgid "http://www.woothemes.com/woocommerce/"
-msgstr ""
+msgstr "http://www.woothemes.com/woocommerce/"
 
 # @ woocommerce
 #. translators: plugin header field 'Description'
@@ -13719,17 +13717,17 @@ msgstr ""
 #. translators: plugin header field 'Author'
 #: woocommerce.php:0
 msgid "WooThemes"
-msgstr ""
+msgstr "WooThemes"
 
 # @ woocommerce
 #. translators: plugin header field 'AuthorURI'
 #: woocommerce.php:0
 msgid "http://woothemes.com"
-msgstr ""
+msgstr "http://woothemes.com"
 
 # @ woocommerce
 #. translators: plugin header field 'Version'
 #: woocommerce.php:0
 msgid "2.0.0"
-msgstr ""
+msgstr "2.0.0"
 
