@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.0\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2013-04-02 08:22:54+00:00\n"
-"PO-Revision-Date: 2013-08-20 17:13+0100\n"
+"PO-Revision-Date: 2013-08-26 14:14+0100\n"
 "Last-Translator: Roger Pàmies <info@studi7.com>\n"
 "Language-Team: luba lee <hello@lubalee.net>\n"
 "MIME-Version: 1.0\n"
@@ -8858,27 +8858,27 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:37
 msgid "Coupon description"
-msgstr ""
+msgstr "Descripció del cupó"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:37
 msgid "Optionally enter a description for this coupon for your reference."
-msgstr ""
+msgstr "Introduïu opcionalment una descripció per tindre referenciat aquest cupó."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:42
 msgid "Discount type"
-msgstr ""
+msgstr "Tipus de descompte"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:45
 msgid "Enter an amount or percentage e.g. 2.99 or 15%"
-msgstr ""
+msgstr "Introduïu una quantitat o un percentatge (p.e. 2.99 o 15%)"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:51
 msgid "Enable free shipping"
-msgstr ""
+msgstr "Activa enviament gratuït"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:51
@@ -8889,27 +8889,27 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:54
 msgid "Individual use"
-msgstr ""
+msgstr "Ús individual"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:54
 msgid "Check this box if the coupon cannot be used in conjunction with other coupons."
-msgstr ""
+msgstr "Marca aquesta casella si el cupó no pot ser utilitzat junt amb altres cupons."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:57
 msgid "Apply before tax"
-msgstr ""
+msgstr "Aplicar abans de les taxes"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:57
 msgid "Check this box if the coupon should be applied before calculating cart tax."
-msgstr ""
+msgstr "Marca aquesta casella si el cupó hauria d'aplicar-se abans de calcular les taxes del cistell."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:60
 msgid "Exclude sale items"
-msgstr ""
+msgstr "Exclou els items d'oferta."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:60
@@ -8919,12 +8919,12 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:65
 msgid "Minimum amount"
-msgstr ""
+msgstr "Quantitat mínima"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:65
 msgid "No minimum"
-msgstr ""
+msgstr "Sense mínim"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:65
@@ -8938,7 +8938,7 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:521
 #: admin/woocommerce-admin-reports.php:1229
 msgid "Search for a product&hellip;"
-msgstr ""
+msgstr "Cerca un producte&hellip;"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:89
@@ -8948,12 +8948,12 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:94
 msgid "Exclude products"
-msgstr ""
+msgstr "Exclou productes"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:95
 msgid "Search for a product…"
-msgstr ""
+msgstr "Cerca un producte..."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:109
@@ -8963,7 +8963,7 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:117
 msgid "Any category"
-msgstr ""
+msgstr "Qualsevol categoria"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:125
@@ -8973,12 +8973,12 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:130
 msgid "Exclude categories"
-msgstr ""
+msgstr "Exclou categories"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:131
 msgid "No categories"
-msgstr ""
+msgstr "Cap categoria"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:139
@@ -8988,12 +8988,12 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:145
 msgid "Customer emails"
-msgstr ""
+msgstr "Correus electrònics del client"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:145
 msgid "Any customer"
-msgstr ""
+msgstr "Qualsevol client"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:145
@@ -9003,13 +9003,13 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:152
 msgid "Usage limit"
-msgstr ""
+msgstr "Ús limitat"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:152
 msgctxt "placeholder"
 msgid "Unlimited usage"
-msgstr ""
+msgstr "Ús il·limitat"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:152
@@ -9020,7 +9020,7 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-coupon_data.php:158
 msgctxt "placeholder"
 msgid "Never expire"
-msgstr ""
+msgstr "No caduca mai"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:158
@@ -9185,63 +9185,63 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:388
 msgid "Delete Lines"
-msgstr ""
+msgstr "Esborra linies"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:390
 msgid "Stock Actions"
-msgstr ""
+msgstr "Accions d'estoc"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:391
 msgid "Reduce Line Stock"
-msgstr ""
+msgstr "Redueix linia d'estoc"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:392
 msgid "Increase Line Stock"
-msgstr ""
+msgstr "Augmenta linia d'estoc"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:396
 #: admin/post-types/writepanels/writepanel-order_data.php:456
 msgid "Apply"
-msgstr ""
+msgstr "Aplica"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:402
 msgid "Add item(s)"
-msgstr ""
+msgstr "Afegir item(s)"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:403
 msgid "Add fee"
-msgstr ""
+msgstr "Afegir quota"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:434
 msgid "Resend order emails"
-msgstr ""
+msgstr "Reenvia correus de l'ordre"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:465
 msgid "Move to Trash"
-msgstr ""
+msgstr "Mou a la paperera"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:470
 msgid "Save Order"
-msgstr ""
+msgstr "Guarda ordre"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:470
 msgid "Save/update the order"
-msgstr ""
+msgstr "Guarda/Actualitza l'ordre"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:495
 msgid "Discounts"
-msgstr ""
+msgstr "Descomptes"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:499
@@ -9251,12 +9251,12 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:507
 msgid "Discounts after tax - user defined."
-msgstr ""
+msgstr "Descomptes després de les taxes - definits per l'usuari."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:540
 msgid "Label:"
-msgstr ""
+msgstr "Etiqueta:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:541
@@ -9266,12 +9266,12 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:548
 msgid "Cost:"
-msgstr ""
+msgstr "Cost:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:556
 msgid "Method:"
-msgstr ""
+msgstr "Mètode:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:578
@@ -9279,7 +9279,7 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-order_data.php:679
 #: admin/post-types/writepanels/writepanel-order_data.php:681
 msgid "Other"
-msgstr ""
+msgstr "Altre:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:594
@@ -9299,7 +9299,7 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:623
 msgid "Tax Totals"
-msgstr ""
+msgstr "Total taxes"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:627
@@ -9310,22 +9310,22 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-order_data.php:649
 #: admin/post-types/writepanels/writepanels-init.php:70
 msgid "Order Totals"
-msgstr ""
+msgstr "Total ordre"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:661
 msgid "Payment Method:"
-msgstr ""
+msgstr "Mètode de pagament:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:692
 msgid "Calc taxes"
-msgstr ""
+msgstr "Calcular taxes"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:694
 msgid "Calc totals"
-msgstr ""
+msgstr "Calcular totals"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_downloads.php:57
@@ -9351,17 +9351,17 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-order_notes.php:44
 #, php-format
 msgid "added %s ago"
-msgstr ""
+msgstr "afegit fa %s"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_notes.php:50
 msgid "There are no notes for this order yet."
-msgstr ""
+msgstr "Encara no hi ha notes per aquesta ordre."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_notes.php:56
 msgid "Add note"
-msgstr ""
+msgstr "Afegir nota"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_notes.php:56
@@ -9371,45 +9371,45 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_notes.php:63
 msgid "Private note"
-msgstr ""
+msgstr "Nota privada"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_notes.php:65
 #: admin/post-types/writepanels/writepanel-product_data.php:482
 msgid "Add"
-msgstr ""
+msgstr "Afegir"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:23
 msgid "Variations for variable products are defined here."
-msgstr ""
+msgstr "Les variacions dels productes variables son definides aquí."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:65
 msgid "Before adding variations, add and save some attributes on the <strong>Attributes</strong> tab."
-msgstr ""
+msgstr "Abans d'afegir variacions, afegiu i guardeu alguns atributs a la pestanya <strong>Atributs</strong>."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:67
 msgid "Learn more"
-msgstr ""
+msgstr "Aprèn més"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:74
 #: admin/post-types/writepanels/writepanel-product_data.php:329
 msgid "Close all"
-msgstr ""
+msgstr "Tanca tot"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:74
 #: admin/post-types/writepanels/writepanel-product_data.php:329
 msgid "Expand all"
-msgstr ""
+msgstr "Expandeix tot"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:75
 msgid "Bulk edit:"
-msgstr ""
+msgstr "Edició en massa:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:77
@@ -9429,7 +9429,7 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:80
 msgid "Delete all variations"
-msgstr ""
+msgstr "Esborra totes les variacions"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:81
@@ -9480,7 +9480,7 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:293
 msgid "Are you sure you want to link all variations? This will create a new variation for each and every possible combination of variation attributes (max 50 per run)."
-msgstr ""
+msgstr "Esteu segurs que voleu enllaçar totes les variacions? Això crearà una nova variació per cada possible combinació d'atributs (màxim 50 per operació). "
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:310
@@ -9566,19 +9566,19 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:83
 msgid "Linked Products"
-msgstr ""
+msgstr "Productes enllaçats"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:85
 #: admin/woocommerce-admin-attributes.php:298
 #: admin/woocommerce-admin-init.php:66
 msgid "Attributes"
-msgstr ""
+msgstr "Atributs"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:87
 msgid "Advanced"
-msgstr ""
+msgstr "Avançat"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:98
@@ -9593,23 +9593,23 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:109
 msgid "Product URL"
-msgstr ""
+msgstr "URL del producte"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:109
 msgid "Enter the external URL to the product."
-msgstr ""
+msgstr "Introduïu la URL externa del producte."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:112
 msgid "Button text"
-msgstr ""
+msgstr "Text del botó"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:112
 msgctxt "placeholder"
 msgid "Buy product"
-msgstr ""
+msgstr "Compra producte"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:112
@@ -9619,17 +9619,17 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:119
 msgid "Regular Price"
-msgstr ""
+msgstr "Preu regular"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:125
 msgid "Sale Price"
-msgstr ""
+msgstr "Preu de venda"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:135
 msgid "Sale Price Dates"
-msgstr ""
+msgstr "Dates del preu de venda"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:152
@@ -9639,12 +9639,12 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:158
 msgid "Download Limit"
-msgstr ""
+msgstr "Límit de descàrregues"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:180
 msgid "Shipping only"
-msgstr ""
+msgstr "Només enviament"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:212
@@ -9659,7 +9659,7 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:230
 msgid "Stock status"
-msgstr ""
+msgstr "Estat de l'estoc"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:233
@@ -9674,17 +9674,17 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:241
 msgid "Do not allow"
-msgstr ""
+msgstr "No ho permetis"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:242
 msgid "Allow, but notify customer"
-msgstr ""
+msgstr "Permès, però amb notificació al client"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:243
 msgid "Allow"
-msgstr ""
+msgstr "Permès"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:244
@@ -9694,7 +9694,7 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:255
 msgid "Sold Individually"
-msgstr ""
+msgstr "Venut individulament"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:255
@@ -9704,22 +9704,22 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:273
 msgid "Weight in decimal form"
-msgstr ""
+msgstr "Pes en forma decimal"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:290
 msgid "LxWxH in decimal form"
-msgstr ""
+msgstr "LxWxH en forma decimal"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:311
 msgid "No shipping class"
-msgstr ""
+msgstr "Sense classe d'enviament"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:317
 msgid "Shipping class"
-msgstr ""
+msgstr "Classe d'enviament"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:317
@@ -9731,27 +9731,27 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:457
 #: admin/woocommerce-admin-init.php:453
 msgid "Value(s)"
-msgstr ""
+msgstr "Valor(s)"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:382
 msgid "Select terms"
-msgstr ""
+msgstr "Selecciona termes"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:394
 msgid "Select all"
-msgstr ""
+msgstr "Selecciona tot"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:394
 msgid "Select none"
-msgstr ""
+msgstr "Sense selecció"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:396
 msgid "Add new"
-msgstr ""
+msgstr "Afegir nou"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:409
@@ -9776,7 +9776,7 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:458
 #: admin/woocommerce-admin-init.php:454
 msgid "Enter some text, or some attributes by pipe (|) separating values."
-msgstr ""
+msgstr "Introduïu algun text, o alguns atributs separats per (|)"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:484
@@ -9786,7 +9786,7 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:496
 msgid "Save attributes"
-msgstr ""
+msgstr "Guarda atributs"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:503
@@ -11328,88 +11328,88 @@ msgstr ""
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:77
 msgid "Please, provide an attribute name, slug and type."
-msgstr ""
+msgstr "Si us plau, introduïu un nom d'atribut, URL i tipus."
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:79
 #, php-format
 msgid "Slug “%s” is too long (28 characters max). Shorten it, please."
-msgstr ""
+msgstr "La URL \"%s\" és massa llarga (28 caràcters màxim). Escurceu-la si us plau."
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:81
 #, php-format
 msgid "Slug “%s” is not allowed because it is a reserved term. Change it, please."
-msgstr ""
+msgstr "La URL \"%s\" no és permesa perque és un terme reservat. Canvieu-la si us plau."
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:85
 #: admin/woocommerce-admin-attributes.php:90
 #, php-format
 msgid "Slug “%s” is already in use. Change it, please."
-msgstr ""
+msgstr "La URL \"%s\" ja està en ús. Canvieu-la si us plau."
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:226
 msgid "Edit Attribute"
-msgstr ""
+msgstr "Editar atribut"
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:236
 #: admin/woocommerce-admin-attributes.php:375
 msgid "Name for the attribute (shown on the front-end)."
-msgstr ""
+msgstr "Nom de l'atribut (es mostra a la part frontal)."
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:241
 #: admin/woocommerce-admin-attributes.php:307
 #: admin/woocommerce-admin-attributes.php:379
 msgid "Slug"
-msgstr ""
+msgstr "URL"
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:245
 #: admin/woocommerce-admin-attributes.php:381
 msgid "Unique slug/reference for the attribute; must be shorter than 28 characters."
-msgstr ""
+msgstr "La URL/Referència única de l'atribut ha de ser més curta de 28 caràcters."
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:254
 #: admin/woocommerce-admin-attributes.php:387
 msgid "Select"
-msgstr ""
+msgstr "Selecció"
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:255
 #: admin/woocommerce-admin-attributes.php:388
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:258
 #: admin/woocommerce-admin-attributes.php:391
 msgid "Determines how you select attributes for products. <strong>Text</strong> allows manual entry via the product page, whereas <strong>select</strong> attribute terms can be defined from this section. If you plan on using an attribute for variations use <strong>select</strong>."
-msgstr ""
+msgstr "Determina com selecciones els atributs dels productes. El <strong>text</strong> permet l'entrada manual a través de la pàgina del producte, mentre la <strong>selecció</strong> de termes de l'atribut pot ser definit des d'aquesta secció. Si us plantegeu usar els atributs per les variacions, utilitzeu la <strong>selecció</strong>."
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:263
 #: admin/woocommerce-admin-attributes.php:395
 msgid "Default sort order"
-msgstr ""
+msgstr "Ordre per defecte"
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:267
 #: admin/woocommerce-admin-attributes.php:335
 #: admin/woocommerce-admin-attributes.php:397
 msgid "Custom ordering"
-msgstr ""
+msgstr "Ordenació personalitzada"
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:269
 #: admin/woocommerce-admin-attributes.php:332
 #: admin/woocommerce-admin-attributes.php:399
 msgid "Term ID"
-msgstr ""
+msgstr "ID del Terme"
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:271
