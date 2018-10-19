@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.0\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2013-04-02 08:22:54+00:00\n"
-"PO-Revision-Date: 2013-08-26 14:14+0100\n"
+"PO-Revision-Date: 2018-10-19 20:26+0100\n"
 "Last-Translator: Roger Pàmies <info@studi7.com>\n"
 "Language-Team: luba lee <hello@lubalee.net>\n"
 "MIME-Version: 1.0\n"
@@ -7738,12 +7738,12 @@ msgstr ""
 # @ woocommerce
 #: admin/includes/notice-theme-support.php:7
 msgid "Theme Integration Guide"
-msgstr ""
+msgstr "Guia d'integració de temes"
 
 # @ woocommerce
 #: admin/includes/notice-theme-support.php:7
 msgid "Hide this notice"
-msgstr ""
+msgstr "Amaga aquesta notícia"
 
 # @ woocommerce
 #: admin/includes/notice-update.php:6
@@ -7793,12 +7793,12 @@ msgstr "Gràcies, tot fet!"
 # @ woocommerce
 #: admin/includes/welcome.php:135
 msgid "Thank you for updating to the latest version!"
-msgstr ""
+msgstr "Gràcies per actualitzar a l'última versió!"
 
 # @ woocommerce
 #: admin/includes/welcome.php:137
 msgid "Thanks for installing!"
-msgstr ""
+msgstr "Gràcies per la instal·lació!"
 
 # @ woocommerce
 #: admin/includes/welcome.php:139
@@ -7820,12 +7820,12 @@ msgstr "Documentació"
 # @ woocommerce
 #: admin/includes/welcome.php:154
 msgid "What's New"
-msgstr ""
+msgstr "Novetats"
 
 # @ woocommerce
 #: admin/includes/welcome.php:156
 msgid "Credits"
-msgstr ""
+msgstr "Crèdits"
 
 # @ woocommerce
 #: admin/includes/welcome.php:179
@@ -7850,7 +7850,7 @@ msgstr ""
 # @ woocommerce
 #: admin/includes/welcome.php:193
 msgid "New Product Panel"
-msgstr ""
+msgstr "Nou panell de productes."
 
 # @ woocommerce
 #: admin/includes/welcome.php:194
@@ -7860,12 +7860,12 @@ msgstr ""
 # @ woocommerce
 #: admin/includes/welcome.php:199
 msgid "Nicer Order Screens"
-msgstr ""
+msgstr "Millors Pantalles de Comandes"
 
 # @ woocommerce
 #: admin/includes/welcome.php:200
 msgid "Order pages have had a cleanup, with a more easily scannable interface. We particularly like the new status icons!"
-msgstr ""
+msgstr "Les pàgines d'ordres han tingut una neteja, amb una interfície més fàcil d'escanejar. Ens agraden especialment les noves icones d'estat."
 
 # @ woocommerce
 #: admin/includes/welcome.php:205
@@ -7935,7 +7935,7 @@ msgstr ""
 # @ woocommerce
 #: admin/includes/welcome.php:247
 msgid "We have added star ratings to the catalog which are pulled from reviews."
-msgstr ""
+msgstr "Hem afegit puntuacions d'estrelles al catàleg que s'extreuen de les ressenyes."
 
 # @ woocommerce
 #: admin/includes/welcome.php:255
@@ -7945,7 +7945,7 @@ msgstr ""
 # @ woocommerce
 #: admin/includes/welcome.php:259
 msgid "New product classes"
-msgstr ""
+msgstr "Noves classes de productes"
 
 # @ woocommerce
 #: admin/includes/welcome.php:260
